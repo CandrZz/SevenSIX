@@ -28,7 +28,7 @@ html {
  }
 
  .li-navbar:hover {
-   background-color: darkred;
+   background-color: orange;
    transition: .5s ease-in-out;
    transition-delay: .1s;
    border-radius: 8px;
@@ -41,7 +41,7 @@ html {
  }
  
  .container-content {
-    background-color: red;
+    background-color: coral;
     display: flex;
     justify-content: center;
     align-items: center;
