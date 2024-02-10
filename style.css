@@ -58,8 +58,8 @@ html {
 
  .a-content {
    background-color: white;
-   width:42%;
-   height: 85%;
+   width:68vh;
+   height: 62vh;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -109,7 +109,7 @@ html {
    width: 99%;
    justify-content: center;
    align-items:center;
-   font-size: 25px;
+   font-size: 3vh;
  }
 
  .a-contact {
