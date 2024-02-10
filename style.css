@@ -7,7 +7,7 @@ html {
  .container {}
 
  .container-navbar {
-    background-color: #666;
+    background-color: crimson;
     width: 100%;
     height: 13vh;
  }
@@ -28,7 +28,7 @@ html {
  }
 
  .li-navbar:hover {
-   background-color: #000;
+   background-color: darkred;
    transition: .5s ease-in-out;
    transition-delay: .1s;
    border-radius: 8px;
@@ -41,7 +41,7 @@ html {
  }
  
  .container-content {
-    background-color: #999;
+    background-color: red;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -76,7 +76,7 @@ html {
  .container-footer {
     height: 10vh;
     height: 51px;
-    background-color: #555;
+    background-color: tomato;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,7 @@ html {
  }
 
  .a-shadow {
-   background-color: white;
+   background-color: pink;
    width: 70%;
    height: 80%;
    display: flex;
@@ -113,7 +113,7 @@ html {
  }
 
  .a-contact {
-   background-color: white;
+   background-color: pink;
    width: 50%;
    height: 60%;
    display: flex;
