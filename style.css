@@ -105,10 +105,11 @@ html {
  }
 
  .text-a {
-   height: 18vh;
+   height: 3vh;
    width: 900vh;
    justify-content: center;
    align-items:center;
+   font-size: medium;
  }
 
  .a-contact {
