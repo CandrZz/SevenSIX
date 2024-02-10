@@ -7,7 +7,7 @@ html {
  .container {}
 
  .container-navbar {
-    background-color: crimson;
+    background-color: #009fff;
     width: 100%;
     height: 13vh;
  }
@@ -28,7 +28,7 @@ html {
  }
 
  .li-navbar:hover {
-   background-color: orange;
+   background-color: #654ea3;
    transition: .5s ease-in-out;
    transition-delay: .1s;
    border-radius: 8px;
@@ -41,7 +41,7 @@ html {
  }
  
  .container-content {
-    background-color: coral;
+    background-color: #1564c0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,9 +57,9 @@ html {
  }
 
  .a-content {
-   background-color: black;
-   width: 50%;
-   height: 80%;
+   background-color: white;
+   width:42%;
+   height: 85%;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -69,14 +69,14 @@ html {
  }
 
  .img-content {
-    width: 45%;
+    width: 100%;
     height: 100%;
  }
 
  .container-footer {
     height: 10vh;
     height: 51px;
-    background-color: tomato;
+    background-color: #4286f4;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,7 @@ html {
  }
 
  .a-shadow {
-   background-color: pink;
+   background-color: #fff;
    width: 70%;
    height: 80%;
    display: flex;
@@ -113,8 +113,8 @@ html {
  }
 
  .a-contact {
-   background-color: pink;
-   width: 50%;
+   background-color: #fff;
+   width: 35%;
    height: 60%;
    display: flex;
    justify-content: center;
