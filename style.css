@@ -51,7 +51,7 @@ html {
  .member-content {
    display: flex;
    height: 500px;
-   width: 1000px;
+   width: 100%;
    justify-content: center;
    align-items: right;
  }
@@ -106,7 +106,7 @@ html {
 
  .text-a {
    height: 185px;
-   width: 1055px;
+   width: 99%;
    justify-content: center;
    align-items:center;
    font-size: 25px;
